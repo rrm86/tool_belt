@@ -3,7 +3,7 @@ This Repo is a collection of tools
 to organize and improve code quality and organization.
 
 ## Prerequisites
-- Python 
+- Python3 
 - VirtualEnv
   - ```$ pip3 install virtualenv```
 - Create the virtual env
